@@ -100,7 +100,7 @@ audio {
 	box-shadow: 0px 2px 2px 4px #bebebe;
 	border: solid 2px #bebebe;
 	background: #bebebe;
-	align:left;
+	align-items:left;
 }
 
 video {
@@ -200,7 +200,7 @@ footer address {
       -webkit-flex-flow: row nowrap;
       flex-flow: row nowrap;
       -webkit-justify-content: center;
-      justify-content: center;
+      justify-content:center;
    }
    
    body header nav ul li {
